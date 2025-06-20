@@ -110,7 +110,6 @@ pydot==3.0.4
 Pygments==2.19.1
 PyMuPDF==1.25.5
 pyparsing==3.2.3
-python==3.10
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
 pytz==2025.2

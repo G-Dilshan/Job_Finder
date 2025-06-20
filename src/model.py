@@ -6,8 +6,6 @@ load_dotenv()
 
 GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
 
-repo_id = "meta-llama/Llama-3.3-70B-Instruct"
-
 gemini_llm = GoogleGenerativeAI(
     model="models/gemini-2.0-flash",
     temperature=0.5,
